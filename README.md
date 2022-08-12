@@ -13,7 +13,7 @@
 </h3>
  
  <h2>
-  :man_technologist: About Me :
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> About Me :
 </h2>
 <p>
 <animated-image data-catalyst="" style="float: right; width: 400px;">
